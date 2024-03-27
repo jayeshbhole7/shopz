@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210284553469",
+    "project_id": "szop-df434",
+    "storage_bucket": "szop-df434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210284553469:android:032a3b38ff563a74f6ca94",
+        "android_client_info": {
+          "package_name": "com.example.zop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApr6cF76chM3iQy5t41b0Krt3cUbWvCCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
